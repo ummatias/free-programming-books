@@ -9,3 +9,4 @@ Português
 - [Go por Exemplo](http://goporexemplo.golangbr.org)
 - [Engenharia de Software - Ian Sommerville - Tradução da 9ª edição](https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf)
 - [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/)
+- [Introdução à linguagem de programação Python - UFJF)](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ufjf.br/deptocomputacao/files/2010/08/apresentacao.pdf&ved=2ahUKEwiZ96zkouP6AhX0q5UCHRrbDJgQFnoECAsQAQ&usg=AOvVaw0tLjyFbf-EqteDCB9PZgWS)
