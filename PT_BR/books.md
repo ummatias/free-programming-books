@@ -11,3 +11,4 @@ Português
 - [Descomplicando o Docker](https://livro.descomplicandodocker.com.br/)
 - [Introdução à linguagem de programação Python - UFJF)](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ufjf.br/deptocomputacao/files/2010/08/apresentacao.pdf&ved=2ahUKEwiZ96zkouP6AhX0q5UCHRrbDJgQFnoECAsQAQ&usg=AOvVaw0tLjyFbf-EqteDCB9PZgWS)
 - [Programação em Assembly](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.inf.ufpr.br/roberto/ci210/assembly.pdf&ved=2ahUKEwi1_cHZpeP6AhWQbTABHW5NBqoQFnoECAsQAQ&usg=AOvVaw06rzhmoZWE1JSfGpKxH89T)
+- [Linguagem Assembly para i386 e x86-64 - UEMS](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.comp.uems.br/~ojacques/LM/Livros/Linguagem%2520Assembly%2520para%2520i386%2520e%2520x86-64%2520v0.8.5.pdf&ved=2ahUKEwi1_cHZpeP6AhWQbTABHW5NBqoQFnoECAwQAQ&usg=AOvVaw1I8muO4Rzii7clvGunyHbp)
