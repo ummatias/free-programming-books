@@ -1,5 +1,6 @@
 Português
 
+- [Pense Python: pense como um cientista da computação](https://penseallen.github.io/PensePython2e/)
 - [Python para todos](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf)
 - [Aprenda Computação com Python](https://aprendendo-computacao-com-python.readthedocs.io/en/latest/index.html)
 - [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
@@ -14,3 +15,4 @@ Português
 - [Linguagem Assembly para i386 e x86-64 - UEMS](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.comp.uems.br/~ojacques/LM/Livros/Linguagem%2520Assembly%2520para%2520i386%2520e%2520x86-64%2520v0.8.5.pdf&ved=2ahUKEwi1_cHZpeP6AhWQbTABHW5NBqoQFnoECAwQAQ&usg=AOvVaw1I8muO4Rzii7clvGunyHbp)
 - [Linguagem Assembly - DCA](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.dca.fee.unicamp.br/~leopini/DISCIPLINAS/EA869/2018-1/c3-ARM-3.pdf&ved=2ahUKEwi1_cHZpeP6AhWQbTABHW5NBqoQFnoECDAQAQ&usg=AOvVaw2nlWb7Jp0ZjJQVm2Is8oLq)
 - [Compiladores: Princípios Técnicas e Ferramentas](https://tsxvpsbr.dyndns.org/arquivos/UFFS/Compiladores%20-%20Princ%C3%ADpios%20T%C3%A9cnicas%20e%20Ferramentas.pdf)
+- [Introdução ao Ruby](https://www.google.com/url?sa=t&source=web&rct=j&url=https://docente.ifrn.edu.br/fellipealeixo/disciplinas/tads-2012/desenvolvimento-de-sistemas-web/material/03_ruby.pdf&ved=2ahUKEwjYubDZt-P6AhWvpJUCHRarDHsQFnoECA0QAQ&usg=AOvVaw1CYmD2_p9DjeFyiu9dKigC)
