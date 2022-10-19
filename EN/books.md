@@ -1,5 +1,14 @@
 English
 
+- [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf)
+- [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/)
+- [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
+- [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
+- [Pro Git](http://git-scm.com/book/en/)
+- [Think OS: A Brief Introduction to Operating Systems](http://www.greenteapress.com/thinkos/index.html)
+- [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/)
+- [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
+- [C# Programming - Yellow Book](http://www.csharpcourse.com/)
 - [The Little Book of Semaphores](https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
 - [Kubernetes Deployment and Security Patterns](https://www.cncf.io/free-ebook-kubernetes-deployment-security-patterns/)
 - [CI/CD With Kubernetes](https://www.cncf.io/free-ebook-ci-cd-with-kubernetes/)
