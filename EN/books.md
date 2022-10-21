@@ -16,3 +16,4 @@ English
 - [Neural Networks from Scratch in Python](https://www.haio.ir/app/uploads/2021/12/Neural-Networks-from-Scratch-in-Python-by-Harrison-Kinsley-Daniel-Kukiela-z-lib.org_.pdf)
 - [Python e Orientação a Objetos](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf&ved=2ahUKEwiZ96zkouP6AhX0q5UCHRrbDJgQFnoECAwQAQ&usg=AOvVaw1obJk-C1bfsB-576-xEBWJ)
 - [Learning Python](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
+- [Software Engineering - Ian Sommerville](https://engineering.futureuniversity.com/BOOKS%20FOR%20IT/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf)
