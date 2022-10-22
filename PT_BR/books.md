@@ -18,3 +18,4 @@ Português
 - [Desenvolvimento de Aplicações Web com Ruby on Rails - IME-USP](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ime.usp.br/~esposte/documents/aula-rails/aula01.pdf&ved=2ahUKEwjYubDZt-P6AhWvpJUCHRarDHsQFnoECCoQAQ&usg=AOvVaw3xMVtGYewAJahyDAnxqb4A)
 - [Compiladores: Princípios Técnicas e Ferramentas](https://tsxvpsbr.dyndns.org/arquivos/UFFS/Compiladores%20-%20Princ%C3%ADpios%20T%C3%A9cnicas%20e%20Ferramentas.pdf)
 - [Introdução ao Ruby](https://www.google.com/url?sa=t&source=web&rct=j&url=https://docente.ifrn.edu.br/fellipealeixo/disciplinas/tads-2012/desenvolvimento-de-sistemas-web/material/03_ruby.pdf&ved=2ahUKEwjYubDZt-P6AhWvpJUCHRarDHsQFnoECA0QAQ&usg=AOvVaw1CYmD2_p9DjeFyiu9dKigC)
+- [Engenharia de Software Moderna - Marco Tulio Valente](https://engsoftmoderna.info/)
