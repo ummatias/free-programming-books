@@ -18,3 +18,4 @@ English
 - [Learning Python](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 - [Software Engineering - Ian Sommerville](https://engineering.futureuniversity.com/BOOKS%20FOR%20IT/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf)
 - [Everything About Kubernetes: A Practical Guide](https://iamondemand.com/wp-content/uploads/2019/11/Kubernetes-eBook.pdf)
+- [Artificial Intelligence - A modern approach](https://zoo.cs.yale.edu/classes/cs470/materials/aima2010.pdf)
