@@ -19,3 +19,4 @@ English
 - [Software Engineering - Ian Sommerville](https://engineering.futureuniversity.com/BOOKS%20FOR%20IT/Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf)
 - [Everything About Kubernetes: A Practical Guide](https://iamondemand.com/wp-content/uploads/2019/11/Kubernetes-eBook.pdf)
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://docs.google.com/file/d/0B4JvntpnHzdwNjAwYTFlYTAtMjI5NC00ZmQyLTk1M2MtMTdkYmY5M2VmZmU4/edit?resourcekey=0-ysnxLvNdUTaUPp0sOLqfWQ)
+- [Black Hat Python 2nd Edition](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Python/Black_Hat_Python,_2nd_Edition.pdf)
